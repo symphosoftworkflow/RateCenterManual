@@ -7,7 +7,7 @@
   <div style="display:inline-block; background:#f5f5f5; border:1px solid #ddd; border-radius:4px; padding:1rem 2rem; margin-top:1rem; text-align:left;">
     <strong>รุ่นเอกสาร:</strong> 1.0 &nbsp;|&nbsp;
     <strong>วันที่บังคับใช้:</strong> 18 พฤษภาคม 2568 &nbsp;|&nbsp;
-    <strong>ผู้จัดทำ:</strong> Symphosoft Workflow
+    <strong>ผู้จัดทำ:</strong> LA-OR CO.,LTD.
   </div>
 </div>
 
@@ -77,7 +77,7 @@
 |--------|--------|
 | ชื่อระบบ | RateSheetExtractor (ระบบประมวลผลอัตราค่าระวาง) |
 | เวอร์ชันระบบ | 1.0 (Phase 7 Complete) |
-| ผู้พัฒนา | Symphosoft Workflow |
+| ผู้พัฒนา | LA-OR CO.,LTD. |
 | เทคโนโลยีหลัก | Node.js, React, PostgreSQL, Python |
 | สภาพแวดล้อม | Railway Cloud (Production) |
 | มาตรฐานเอกสาร | ISO/IEC 29110-4-1 |
@@ -100,4 +100,4 @@
 ---
 
 *จัดทำตามมาตรฐาน ISO/IEC 29110-4-1 — Software Engineering: Lifecycle Profiles for Very Small Entities (VSEs)*  
-*ลิขสิทธิ์ © 2568 Symphosoft Workflow — สงวนลิขสิทธิ์ทุกประการ*
+*ลิขสิทธิ์ © 2568 LA-OR CO.,LTD. — สงวนลิขสิทธิ์ทุกประการ*
