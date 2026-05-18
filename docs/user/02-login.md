@@ -6,7 +6,7 @@
 
 ## 2.1 การเข้าสู่ระบบ (Login)
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. เปิดเบราว์เซอร์และไปที่ URL ของระบบ
 2. ระบบแสดงหน้าจอเข้าสู่ระบบ
@@ -16,7 +16,7 @@
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 2.1: หน้าจอเข้าสู่ระบบ]
 </div>
 
@@ -29,7 +29,7 @@
 
 เมื่อเข้าสู่ระบบครั้งแรก ระบบจะบังคับให้ท่าน **ตั้งรหัสผ่านใหม่** ก่อนใช้งาน
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. หลังเข้าสู่ระบบด้วยรหัสผ่านที่ได้รับ ระบบแสดงหน้า "เปลี่ยนรหัสผ่าน"
 2. กรอก **รหัสผ่านใหม่** ที่ต้องการ
@@ -39,7 +39,7 @@
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 2.2: หน้าจอเปลี่ยนรหัสผ่านครั้งแรก]
 </div>
 
@@ -73,7 +73,7 @@
 
 ## 2.4 การออกจากระบบ (Logout)
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกชื่อผู้ใช้งานที่มุมขวาบนของหน้าจอ
 2. คลิก **"ออกจากระบบ"** (Logout)

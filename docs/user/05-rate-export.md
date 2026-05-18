@@ -24,7 +24,7 @@
 
 ### 5.3.1 ส่งออกรายการที่เลือก (Export Selected)
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. ค้นหาอัตราค่าระวางตามที่ต้องการ (ดูบทที่ 4)
 2. เลือกรายการด้วย Checkbox ในตาราง
@@ -36,7 +36,7 @@
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 5.1: หน้าต่าง Export Selected พร้อมช่องหมายเหตุ]
 </div>
 
@@ -51,7 +51,7 @@
 
 ### 5.4.1 ส่งออก Sale Person Format
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกเมนู **Rate Export** (สำหรับ Admin)
 2. เลือก **เดือน** และ **ปี** ที่ต้องการ
@@ -82,7 +82,7 @@
 
 ### 5.4.2 ส่งออก FWD Format
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. ในหน้า Rate Export เลือก เดือนและปี
 2. คลิกปุ่ม **"ดาวน์โหลด FWD Format"**
@@ -96,7 +96,7 @@
 
 ## 5.5 การเปิดไฟล์ Excel ที่ดาวน์โหลด
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. ไฟล์จะอยู่ในโฟลเดอร์ **Downloads** ของคอมพิวเตอร์
 2. ดับเบิลคลิกไฟล์เพื่อเปิดใน Microsoft Excel

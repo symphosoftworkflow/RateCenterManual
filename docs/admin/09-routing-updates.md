@@ -37,7 +37,7 @@
 
 ## 9.3 การอัปโหลดและดูตัวอย่าง
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกเมนู **Routing Updates** ในแถบนำทาง
 2. คลิกปุ่ม **"อัปโหลดไฟล์"** (Upload ZIP)
@@ -46,7 +46,7 @@
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 9.1: หน้าจอ Routing Updates — Preview ผลการจับคู่]
 </div>
 
@@ -64,7 +64,7 @@
 
 ## 9.4 การนำข้อมูล Routing ไปใช้
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. ตรวจสอบข้อมูล Preview ว่าถูกต้อง
 2. คลิกปุ่ม **"นำไปใช้"** (Apply)
@@ -80,7 +80,7 @@
 
 ## 9.5 การดูสถิติและประวัติการอัปเดต
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. ในหน้า Routing Updates คลิกปุ่ม **"สถิติ"** (Stats)
 2. ระบบแสดงประวัติการอัปโหลดและจำนวนแถวที่อัปเดต
@@ -91,7 +91,7 @@
 
 ## 9.6 การล้างข้อมูล Routing
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกปุ่ม **"ล้างข้อมูล Routing"** (Clear)
 2. ยืนยันการดำเนินการ

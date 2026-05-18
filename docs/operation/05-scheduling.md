@@ -30,7 +30,7 @@
 
 ## 5.3 SOP-SCHED-001: การเปิดระบบอัตโนมัติ
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. เข้าหน้า **Email Configuration**
 2. ตรวจสอบว่า `Fetch Interval` ตั้งค่าเหมาะสมแล้ว
@@ -46,7 +46,7 @@
 
 ใช้เมื่อต้องปิดระบบชั่วคราว เช่น ระหว่างการบำรุงรักษา
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. แจ้งผู้เกี่ยวข้องก่อนปิดระบบ
 2. คลิกปุ่ม **"ปิดการดึงอีเมลอัตโนมัติ"** (Stop Schedule)

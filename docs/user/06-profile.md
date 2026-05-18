@@ -12,7 +12,7 @@
 
 ## 6.2 การดูโปรไฟล์
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกชื่อผู้ใช้งานหรือไอคอนโปรไฟล์ที่มุมขวาบนของหน้าจอ
 2. คลิก **"โปรไฟล์"** (Profile)
@@ -20,7 +20,7 @@
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 6.1: หน้าจอโปรไฟล์ผู้ใช้งาน]
 </div>
 
@@ -39,7 +39,7 @@
 
 ## 6.3 การเปลี่ยนรหัสผ่าน
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. ในหน้าโปรไฟล์ คลิกแท็บ **"เปลี่ยนรหัสผ่าน"** (Change Password)
 2. กรอก **รหัสผ่านปัจจุบัน** (Current Password)
@@ -50,7 +50,7 @@
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 6.2: หน้าจอเปลี่ยนรหัสผ่าน]
 </div>
 

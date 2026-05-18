@@ -14,14 +14,14 @@
 
 ## 11.2 การเข้าดู Job Logs
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกเมนู **Job Logs** ในแถบนำทาง
 2. ระบบแสดงรายการ Job ล่าสุด
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 11.1: หน้าจอ Job Logs]
 </div>
 
@@ -49,7 +49,7 @@
 
 ## 11.5 การกรองและค้นหา Job Logs
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. ใช้ตัวกรอง **ประเภท Job** (Job Type) เพื่อดูเฉพาะประเภทที่ต้องการ
 2. ใช้ตัวกรอง **สถานะ** (Status) เพื่อดูเฉพาะ Job ที่ล้มเหลว เป็นต้น
@@ -61,7 +61,7 @@
 
 ## 11.6 การดูรายละเอียด Job
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกที่แถวของ Job ที่ต้องการดูรายละเอียด
 2. ระบบแสดง JSON Details ของ Job นั้น ซึ่งมีข้อมูล:

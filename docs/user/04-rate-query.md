@@ -12,14 +12,14 @@
 
 ## 4.2 การเข้าสู่หน้าค้นหา
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกเมนู **Rate Query** ในแถบนำทางด้านซ้าย
 2. ระบบแสดงหน้าค้นหาพร้อมตัวกรอง
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 4.1: หน้าจอ Rate Query]
 </div>
 
@@ -59,7 +59,7 @@
 
 ## 4.4 การค้นหาข้อมูล
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. เลือก **ปีและเดือน** ที่ต้องการ
 2. ระบุ **POL** และ/หรือ **POD** (ถ้ามี)
@@ -74,7 +74,7 @@
 
 ## 4.5 การอ่านผลลัพธ์
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 4.2: ตารางผลลัพธ์การค้นหา]
 </div>
 
@@ -97,7 +97,7 @@
 
 ท่านสามารถ **เลือกคอลัมน์ที่ต้องการแสดง** ได้โดย:
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกปุ่ม **"คอลัมน์"** (Columns) ด้านบนตาราง
 2. เลือก/ยกเลิกคอลัมน์ที่ต้องการ
@@ -111,7 +111,7 @@
 
 ท่านสามารถดาวน์โหลดไฟล์ Rate Sheet ต้นฉบับที่สายเรือส่งมาได้
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. ในแถวของอัตราค่าระวางที่ต้องการ คลิกปุ่ม **"ดูอีเมล"** (View Email)
 2. ระบบแสดงหน้าต่างรายละเอียดอีเมลต้นทาง
@@ -119,7 +119,7 @@
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 4.3: หน้าต่างรายละเอียดอีเมลและไฟล์แนบ]
 </div>
 
@@ -129,7 +129,7 @@
 
 สามารถเลือกเฉพาะรายการที่ต้องการแล้วส่งออกเป็น Excel ได้
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. ทำเครื่องหมายถูกในช่อง Checkbox ของแถวที่ต้องการ
 2. สามารถเลือกทั้งหมดได้โดยคลิก Checkbox ที่หัวตาราง

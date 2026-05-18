@@ -17,14 +17,14 @@ Superadmin สามารถบริหารจัดการบริษั
 
 ## 4.2 การดูรายชื่อบริษัท
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกเมนู **Company Management** ในแถบนำทาง
 2. ระบบแสดงรายชื่อบริษัทที่ลงทะเบียนในระบบทั้งหมด
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 4.1: หน้าจอ Company Management]
 </div>
 
@@ -40,7 +40,7 @@ Superadmin สามารถบริหารจัดการบริษั
 
 ## 4.3 การสร้างบริษัทใหม่
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกปุ่ม **"เพิ่มบริษัท"** (Add Company)
 2. กรอกข้อมูลในแบบฟอร์ม
@@ -57,7 +57,7 @@ Superadmin สามารถบริหารจัดการบริษั
 
 หลังจากสร้างบริษัทแล้ว ให้ดำเนินการ:
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. สร้างบัญชีผู้ดูแลระบบ (Admin) สำหรับบริษัทนั้น (ดูบทที่ 3)
 2. ตั้งค่า IMAP สำหรับบริษัทนั้น (ดูบทที่ 5)
@@ -68,7 +68,7 @@ Superadmin สามารถบริหารจัดการบริษั
 
 ## 4.4 การแก้ไขข้อมูลบริษัท
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกปุ่ม **"แก้ไข"** ในแถวของบริษัทที่ต้องการ
 2. แก้ไขชื่อบริษัทหรือสถานะ

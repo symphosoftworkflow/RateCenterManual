@@ -25,7 +25,7 @@
 
 **ขั้นตอน:**
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. เข้าสู่ระบบด้วยบัญชี Admin
 2. คลิกเมนู **Email Configuration** ในแถบนำทาง
@@ -47,7 +47,7 @@
 
 หลังดึงอีเมลเสร็จ ให้ตรวจสอบดังนี้:
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกเมนู **Job Logs**
 2. ดูรายการ `email_fetch` ล่าสุด
@@ -78,7 +78,7 @@
 
 ### 3.4.1 ตรวจสอบสถานะระบบอัตโนมัติ
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. เข้าหน้า **Email Configuration**
 2. ดูส่วน "สถานะการดึงอีเมลอัตโนมัติ"
@@ -94,7 +94,7 @@
 
 ### 3.4.2 เปิดระบบอัตโนมัติ (หากปิดอยู่)
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. หน้า **Email Configuration** คลิกปุ่ม **"เปิดการดึงอีเมลอัตโนมัติ"** (Start Schedule)
 2. ยืนยันการดำเนินการ
@@ -108,7 +108,7 @@
 
 หากต้องการดึงอีเมล Rate Sheet ที่ส่งมาเกิน 3 วันที่ผ่านมา (เกินค่า Days Back ปัจจุบัน):
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. เข้าหน้า **Email Configuration**
 2. เพิ่มค่า **Days Back** ชั่วคราว (เช่น จาก 3 เป็น 30)

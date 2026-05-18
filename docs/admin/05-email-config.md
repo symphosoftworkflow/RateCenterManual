@@ -16,14 +16,14 @@
 
 ### 5.2.1 เข้าสู่หน้าตั้งค่าอีเมล
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกเมนู **Email Configuration** ในแถบนำทางด้านซ้าย
 2. ระบบแสดงหน้าการตั้งค่าอีเมลปัจจุบัน (หากมีการตั้งค่าแล้ว) หรือแบบฟอร์มสำหรับตั้งค่าใหม่
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 5.1: หน้าจอ Email Configuration]
 </div>
 
@@ -41,7 +41,7 @@
 
 ### 5.2.3 ทดสอบการเชื่อมต่อ
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. หลังกรอกข้อมูลครบแล้ว คลิกปุ่ม **"ทดสอบการเชื่อมต่อ"** (Test Connection)
 2. รอสักครู่ ระบบจะทดสอบ IMAP และแสดงผล
@@ -52,7 +52,7 @@
 
 ### 5.2.4 บันทึกการตั้งค่า
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. เมื่อทดสอบสำเร็จแล้ว คลิก **"บันทึก"** (Save)
 2. ระบบยืนยันการบันทึก
@@ -63,7 +63,7 @@
 
 ## 5.3 การดึงอีเมลด้วยตนเอง (Manual Fetch)
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. ในหน้า Email Configuration คลิกปุ่ม **"เริ่มดึงอีเมล"** (Start Fetch)
 2. ระบบเริ่มต้นกระบวนการดึงอีเมลและแสดงความคืบหน้า
@@ -72,7 +72,7 @@
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 5.2: แถบความคืบหน้าการดึงอีเมล]
 </div>
 
@@ -91,7 +91,7 @@
 
 ### 5.4.1 เปิดการดึงอีเมลอัตโนมัติ
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. ในหน้า Email Configuration ตรวจสอบว่า `Fetch Interval` ตั้งค่าถูกต้องแล้ว
 2. คลิกปุ่ม **"เปิดการดึงอีเมลอัตโนมัติ"** (Start Schedule)
@@ -101,7 +101,7 @@
 
 ### 5.4.2 ปิดการดึงอีเมลอัตโนมัติ
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกปุ่ม **"ปิดการดึงอีเมลอัตโนมัติ"** (Stop Schedule)
 2. ระบบยืนยันการปิดใช้งาน

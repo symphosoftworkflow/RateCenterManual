@@ -53,7 +53,7 @@
 
 ระบบทำงานผ่านเบราว์เซอร์ ไม่ต้องติดตั้งโปรแกรมเพิ่มเติม
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. เปิดเบราว์เซอร์ (แนะนำ Google Chrome)
 2. พิมพ์ URL ของระบบ (รับจากผู้ดูแลระบบ) ในช่อง Address Bar

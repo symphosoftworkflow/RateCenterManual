@@ -16,20 +16,20 @@
 
 ### 10.2.1 เข้าสู่หน้าจัดการ
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกเมนู **Notification Emails** ในแถบนำทาง
 2. ระบบแสดงรายชื่ออีเมลที่กำหนดไว้ (สูงสุด 20 รายการ)
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 10.1: หน้าจอ Notification Emails]
 </div>
 
 ### 10.2.2 การเพิ่มอีเมล
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกปุ่ม **"เพิ่มอีเมล"** (Add Email)
 2. กรอกที่อยู่อีเมล
@@ -48,7 +48,7 @@
 
 ### 10.2.4 การจัดลำดับ
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกปุ่ม **"จัดลำดับ"** (Reorder)
 2. ลากและวางรายชื่ออีเมลตามลำดับที่ต้องการ
@@ -58,7 +58,7 @@
 
 ### 10.2.5 การลบอีเมล
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกปุ่ม **"ลบ"** ในแถวของอีเมลที่ต้องการ
 2. ยืนยันการลบ

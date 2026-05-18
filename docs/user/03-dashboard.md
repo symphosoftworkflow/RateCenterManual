@@ -8,7 +8,7 @@
 
 หลังจากเข้าสู่ระบบสำเร็จ ระบบจะพาท่านไปยังหน้า **Dashboard** ซึ่งแสดงภาพรวมสถิติและสถานะของระบบ
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 3.1: หน้าจอ Dashboard]
 </div>
 

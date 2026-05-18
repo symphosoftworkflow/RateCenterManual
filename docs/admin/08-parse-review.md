@@ -16,7 +16,7 @@
 
 ## 8.2 การเข้าสู่หน้า Parse Review
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกเมนู **Job Logs** ในแถบนำทาง
 2. คลิกแท็บ **"Parse Review"** ในหน้า Job Logs
@@ -24,7 +24,7 @@
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 8.1: หน้าจอ Parse Review — แท็บ Pending Approval]
 </div>
 
@@ -46,7 +46,7 @@
 
 ### 8.3.2 ดูรายละเอียดอีเมลต้นทาง
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกปุ่ม **"ดูอีเมล"** (View Email) ในแถวที่ต้องการ
 2. ระบบเปิดหน้าต่างแสดงรายละเอียดอีเมล: หัวข้อ, ผู้ส่ง, วันที่, และไฟล์แนบ
@@ -54,7 +54,7 @@
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 8.2: หน้าต่างแสดงรายละเอียดอีเมล]
 </div>
 
@@ -64,7 +64,7 @@
 
 ### 8.4.1 อนุมัติทีละรายการ
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. ตรวจสอบข้อมูลในแถวที่ต้องการอนุมัติ
 2. คลิกปุ่ม **"อนุมัติ"** (Approve) สีเขียว
@@ -75,7 +75,7 @@
 
 ### 8.4.2 อนุมัติทั้งหมดของสายเรือ (Batch Approve)
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. ระบุสายเรือที่ต้องการอนุมัติทั้งหมด
 2. คลิกปุ่ม **"อนุมัติทั้งหมด"** (Batch Approve) สำหรับสายเรือนั้น
@@ -90,7 +90,7 @@
 
 ## 8.5 การปฏิเสธข้อมูล (Reject)
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกปุ่ม **"ปฏิเสธ"** (Reject) สีแดง
 2. ระบบบันทึกสถานะเป็น Rejected
@@ -110,7 +110,7 @@
 
 ในกรณีที่การวิเคราะห์ล้มเหลวหรือผลลัพธ์ไม่ถูกต้อง สามารถสั่งให้ระบบวิเคราะห์ใหม่ได้
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. ค้นหารายการในแท็บ **"Parse Failures"** หรือแท็บ **"Pending Approval"**
 2. คลิกปุ่ม **"Reparse"** (สีม่วง)
@@ -130,7 +130,7 @@
 
 **ขั้นตอนการจัดการ:**
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. เปิดแท็บ **"Parse Failures"**
 2. คลิก **"ดูอีเมล"** เพื่อตรวจสอบเอกสารต้นฉบับ

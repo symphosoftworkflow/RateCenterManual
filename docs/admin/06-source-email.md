@@ -16,14 +16,14 @@
 
 ## 6.2 การดูรายชื่อ Source Email
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกเมนู **Source Emails** ในแถบนำทางด้านซ้าย
 2. ระบบแสดงรายชื่อ Source Email ทั้งหมดที่กำหนดไว้
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 6.1: หน้าจอ Source Emails]
 </div>
 
@@ -31,7 +31,7 @@
 
 ## 6.3 การเพิ่ม Source Email ใหม่
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกปุ่ม **"เพิ่ม Source Email"** (Add Source Email)
 2. กรอกข้อมูลในแบบฟอร์ม (ดูตาราง 6.1)
@@ -39,7 +39,7 @@
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 6.2: แบบฟอร์มเพิ่ม Source Email]
 </div>
 
@@ -112,7 +112,7 @@
 
 **แก้ไข:**
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกปุ่ม **"แก้ไข"** ในแถวของ Source Email ที่ต้องการ
 2. แก้ไขข้อมูล
@@ -126,7 +126,7 @@
 
 **ลบ:**
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกปุ่ม **"ลบ"** (Delete)
 2. ยืนยันการลบ

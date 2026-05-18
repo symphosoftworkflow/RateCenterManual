@@ -8,7 +8,7 @@
 
 เจ้าหน้าที่ควรดำเนินการตรวจสอบต่อไปนี้ทุกวันทำการ **ในตอนเช้า**:
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. **เข้าสู่ระบบ** ด้วยบัญชี Admin
 2. **ตรวจสอบ Dashboard** — ดูตัวเลขสถิติภาพรวม
@@ -36,7 +36,7 @@
 
 ### 2.3.1 เมื่อพบ Job ล้มเหลว (Failed Jobs)
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิก Job นั้นเพื่อดูรายละเอียด Error
 2. ระบุประเภทปัญหา (IMAP Error, Parser Error, DB Error)
@@ -47,7 +47,7 @@
 
 ### 2.3.2 เมื่อมีรายการรอการอนุมัติ
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. เปิดแท็บ **Parse Review → Pending Approval**
 2. ดาวน์โหลดและตรวจสอบไฟล์แนบต้นฉบับหากจำเป็น
@@ -72,7 +72,7 @@
 
 เมื่อสายเรือส่ง Rate Sheet ฉบับใหม่มา:
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. **ตรวจสอบ** ว่า Source Email ของสายเรือนั้นกำหนดไว้ในระบบแล้ว (บทที่ 6 ของ DOC-ADM-001)
 2. **รอให้ระบบดึงอีเมล** โดยอัตโนมัติ หรือกดดึงด้วยตนเอง

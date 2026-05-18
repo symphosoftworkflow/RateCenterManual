@@ -1,4 +1,4 @@
-<div class="iso-header">
+<div class="iso-header" markdown="block">
 
 | | |
 |---|---|
@@ -22,7 +22,7 @@
 
 ## ประวัติการแก้ไขเอกสาร
 
-<div class="change-history">
+<div class="change-history" markdown="block">
 
 | รุ่น | วันที่ | ผู้แก้ไข | รายการเปลี่ยนแปลง |
 |------|--------|----------|-------------------|

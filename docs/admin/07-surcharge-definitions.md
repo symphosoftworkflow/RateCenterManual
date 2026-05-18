@@ -19,14 +19,14 @@
 
 ## 7.2 การดูรายการ Surcharge Definitions
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกเมนู **Surcharge Definitions** ในแถบนำทาง
 2. ระบบแสดงรายการ Surcharge ทั้งหมดพร้อมลำดับการแสดงผล
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 7.1: หน้าจอ Surcharge Definitions]
 </div>
 
@@ -34,7 +34,7 @@
 
 ## 7.3 การเพิ่ม Surcharge ใหม่
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกปุ่ม **"เพิ่ม Surcharge"** (Add Surcharge Definition)
 2. กรอกข้อมูลในแบบฟอร์ม (ดูตาราง 7.1)
@@ -110,7 +110,7 @@ Aliases คือชื่อเรียกอื่นของ Surcharge เ�
 
 **แก้ไข:**
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกปุ่ม **"แก้ไข"** ในแถวของ Surcharge ที่ต้องการ
 2. แก้ไขข้อมูล
@@ -120,7 +120,7 @@ Aliases คือชื่อเรียกอื่นของ Surcharge เ�
 
 **ลบ:**
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกปุ่ม **"ลบ"** (Delete)
 2. ยืนยันการลบ

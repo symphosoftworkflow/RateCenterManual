@@ -20,7 +20,7 @@
 
 ### ขั้นตอน:
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกเมนู **Job Logs** → แท็บ **"Parse Review"**
 2. ตรวจสอบจำนวนรายการที่รอการอนุมัติ (Pending Approval)
@@ -74,7 +74,7 @@
 
 **เงื่อนไขการใช้งาน:** ตรวจสอบตัวอย่างแล้วมั่นใจว่าข้อมูลถูกต้อง
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. ใน Parse Review → Pending Approval
 2. ระบุสายเรือที่ต้องการอนุมัติทั้งหมด
@@ -90,7 +90,7 @@
 
 ## 4.6 SOP-REVIEW-003: Reparse
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. ในแถวของรายการที่ต้องการ Reparse คลิกปุ่ม **"Reparse"** (สีม่วง)
 2. ระบบลบผลเดิมและเริ่มวิเคราะห์ใหม่

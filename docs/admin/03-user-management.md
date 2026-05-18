@@ -17,7 +17,7 @@
 
 ## 3.2 การดูรายชื่อผู้ใช้งาน
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกเมนู **User Management** ในแถบนำทางด้านซ้าย
 2. ระบบแสดงรายชื่อผู้ใช้งานทั้งหมดในบริษัทของท่าน
@@ -25,7 +25,7 @@
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 3.1: หน้าจอ User Management แสดงรายชื่อผู้ใช้งาน]
 </div>
 
@@ -44,7 +44,7 @@
 
 ## 3.3 การสร้างผู้ใช้งานใหม่
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. คลิกปุ่ม **"เพิ่มผู้ใช้งาน"** (Add User) ที่ด้านบนขวาของหน้า
 2. กรอกข้อมูลในแบบฟอร์ม (ดูรายละเอียดในตาราง 3.1)
@@ -54,7 +54,7 @@
 
 </div>
 
-<div class="screenshot-placeholder">
+<div class="screenshot-placeholder" markdown="block">
 [รูปที่ 3.2: แบบฟอร์มสร้างผู้ใช้งานใหม่]
 </div>
 
@@ -77,7 +77,7 @@
 
 ## 3.4 การแก้ไขข้อมูลผู้ใช้งาน
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. ค้นหาผู้ใช้งานที่ต้องการแก้ไข
 2. คลิกปุ่ม **"แก้ไข"** (Edit) หรือไอคอนดินสอ ในแถวของผู้ใช้งานนั้น
@@ -102,7 +102,7 @@
 
 ในกรณีที่ผู้ใช้งานลืมรหัสผ่านหรือต้องการรีเซ็ต:
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. เปิดหน้าแก้ไขผู้ใช้งาน (ดูข้อ 3.4)
 2. คลิกปุ่ม **"สุ่มรหัสผ่านใหม่"**
@@ -116,7 +116,7 @@
 
 ## 3.6 การปิดการใช้งานบัญชี
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. เปิดหน้าแก้ไขผู้ใช้งาน
 2. ปิด Toggle **"Is Active"**
@@ -137,7 +137,7 @@
 
 **วิธีสร้างแผนกใหม่:**
 
-<div class="procedure">
+<div class="procedure" markdown="block">
 
 1. ในหน้า User Management คลิกที่ปุ่ม **"จัดการแผนก"**
 2. คลิก **"เพิ่มแผนก"** (Add Department)
