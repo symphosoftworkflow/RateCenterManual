@@ -1,0 +1,125 @@
+site_name: RateSheetExtractor — ระบบประมวลผลอัตราค่าระวาง
+site_description: เอกสารคู่มือระบบ RateSheetExtractor สำหรับผู้ดูแลระบบ ผู้ใช้งาน และเจ้าหน้าที่ปฏิบัติงาน
+site_author: Symphosoft Workflow
+site_url: https://symphosoftworkflow.github.io/RateCenterManual/
+
+repo_name: symphosoftworkflow/RateCenterManual
+repo_url: https://github.com/symphosoftworkflow/RateCenterManual
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: th
+  font:
+    text: Sarabun
+    code: Roboto Mono
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: เปลี่ยนเป็นโหมดมืด
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: เปลี่ยนเป็นโหมดสว่าง
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - toc.follow
+  logo: assets/images/logo.png
+  favicon: assets/images/logo.png
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/symphosoftworkflow/RateSheetExtractor
+
+plugins:
+  - search:
+      lang: en
+  - print-site:
+      add_to_navigation: false
+      print_page_title: "พิมพ์ / บันทึก PDF"
+      add_print_site_banner: false
+      add_table_of_contents: true
+      toc_title: "สารบัญ"
+      add_full_urls: false
+      enumerate_headings: false
+      path_to_pdf: ""
+      include_css: true
+      enabled: true
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+      title: สารบัญ
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - หน้าหลัก: index.md
+
+  - คู่มือผู้ดูแลระบบ:
+    - admin/index.md
+    - บทที่ 1 — ภาพรวมระบบ: admin/01-overview.md
+    - บทที่ 2 — ข้อกำหนดระบบ: admin/02-system-requirements.md
+    - บทที่ 3 — การจัดการผู้ใช้งาน: admin/03-user-management.md
+    - บทที่ 4 — การจัดการบริษัท: admin/04-company-management.md
+    - บทที่ 5 — การตั้งค่าอีเมล: admin/05-email-config.md
+    - บทที่ 6 — การกำหนด Source Email: admin/06-source-email.md
+    - บทที่ 7 — นิยาม Surcharge: admin/07-surcharge-definitions.md
+    - บทที่ 8 — การตรวจสอบและอนุมัติข้อมูล: admin/08-parse-review.md
+    - บทที่ 9 — การอัปเดตข้อมูล Routing: admin/09-routing-updates.md
+    - บทที่ 10 — การแจ้งเตือน: admin/10-notification.md
+    - บทที่ 11 — การติดตาม Job Logs: admin/11-job-monitoring.md
+    - บทที่ 12 — การบำรุงรักษาระบบ: admin/12-maintenance.md
+
+  - คู่มือผู้ใช้งาน:
+    - user/index.md
+    - บทที่ 1 — เริ่มต้นใช้งาน: user/01-getting-started.md
+    - บทที่ 2 — การเข้าสู่ระบบ: user/02-login.md
+    - บทที่ 3 — หน้าแดชบอร์ด: user/03-dashboard.md
+    - บทที่ 4 — การค้นหาอัตราค่าระวาง: user/04-rate-query.md
+    - บทที่ 5 — การส่งออกข้อมูล: user/05-rate-export.md
+    - บทที่ 6 — การจัดการโปรไฟล์: user/06-profile.md
+
+  - คู่มือการปฏิบัติงาน:
+    - operation/index.md
+    - บทที่ 1 — ภาพรวมกระบวนการ: operation/01-workflow-overview.md
+    - บทที่ 2 — การปฏิบัติงานประจำวัน: operation/02-daily-operations.md
+    - บทที่ 3 — การดึงข้อมูลอีเมล: operation/03-email-fetch.md
+    - บทที่ 4 — การตรวจสอบและอนุมัติ: operation/04-parse-review-workflow.md
+    - บทที่ 5 — การจัดตารางเวลาอัตโนมัติ: operation/05-scheduling.md
+    - บทที่ 6 — การแก้ไขปัญหา: operation/06-troubleshooting.md
+    - บทที่ 7 — การรายงานและส่งต่อ: operation/07-escalation.md
