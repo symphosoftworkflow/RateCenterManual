@@ -199,11 +199,27 @@ body{font-family:'Sarabun',sans-serif;background:#000;}
 }
 .url-title{font-size:40px;font-weight:800;color:#fff;line-height:1.2;margin-bottom:10px;}
 .url-desc{font-size:14px;color:rgba(255,255,255,.55);line-height:1.7;margin-bottom:26px;}
+.url-link{
+  display:block;text-decoration:none;margin-top:0;
+  transition:transform .15s;
+}
+.url-link:hover .url-box{
+  border-color:rgba(255,255,255,.45);
+  background:rgba(0,0,0,.55);
+  box-shadow:0 0 0 2px rgba(255,255,255,.15);
+}
+.url-link:hover{transform:translateY(-2px);}
 .url-box{
   background:rgba(0,0,0,.35);
   border:1px solid rgba(255,255,255,.18);
   border-radius:12px;padding:14px 18px;
   display:flex;align-items:center;gap:10px;
+  cursor:pointer;
+  transition:border-color .15s,background .15s,box-shadow .15s;
+}
+.click-hint{
+  font-size:11px;color:rgba(255,255,255,.32);
+  margin-top:8px;display:flex;align-items:center;gap:5px;
 }
 .udot{width:9px;height:9px;border-radius:50%;flex-shrink:0;}
 .utext{
@@ -383,10 +399,13 @@ body{font-family:'Sarabun',sans-serif;background:#000;}
       เปิดเว็บเบราว์เซอร์แล้วพิมพ์ URL ด้านล่าง<br>
       หรือสแกน QR Code เพื่อเข้าสู่ระบบทันที
     </div>
-    <div class="url-box">
-      <div class="udot"></div>
-      <div class="utext">ratesheetextractor-frontend-production<br>.up.railway.app</div>
-    </div>
+    <a class="url-link" href="https://ratesheetextractor-frontend-production.up.railway.app/" target="_blank" rel="noopener">
+      <div class="url-box">
+        <div class="udot"></div>
+        <div class="utext">ratesheetextractor-frontend-production<br>.up.railway.app</div>
+      </div>
+    </a>
+    <div class="click-hint">🔗 คลิกเพื่อเปิดในเบราว์เซอร์</div>
   </div>
   <div class="url-r">
     <div class="qr-box">
@@ -413,10 +432,13 @@ body{font-family:'Sarabun',sans-serif;background:#000;}
       คู่มือฉบับภาษาไทยตามมาตรฐาน ISO/IEC 29110-4-1<br>
       ครบทุกระดับการใช้งาน พร้อมพิมพ์เป็น PDF
     </div>
-    <div class="url-box">
-      <div class="udot"></div>
-      <div class="utext">symphosoftworkflow.github.io<br>/RateCenterManual</div>
-    </div>
+    <a class="url-link" href="https://ratecenterdoc.la-or.co.th/" target="_blank" rel="noopener">
+      <div class="url-box">
+        <div class="udot"></div>
+        <div class="utext">ratecenterdoc.la-or.co.th</div>
+      </div>
+    </a>
+    <div class="click-hint">🔗 คลิกเพื่อเปิดคู่มือ</div>
     <div class="ftags">
       <span class="ftag2">📋 คู่มือผู้ดูแลระบบ</span>
       <span class="ftag2">👤 คู่มือผู้ใช้งาน</span>
@@ -425,7 +447,7 @@ body{font-family:'Sarabun',sans-serif;background:#000;}
   </div>
   <div class="url-r">
     <div class="qr-box">
-      <img src="https://api.qrserver.com/v1/create-qr-code/?size=210x210&color=0a3a1a&data=https://symphosoftworkflow.github.io/RateCenterManual/" alt="QR Code">
+      <img src="https://api.qrserver.com/v1/create-qr-code/?size=210x210&color=0a3a1a&data=https://ratecenterdoc.la-or.co.th/" alt="QR Code">
     </div>
     <div class="qr-hint">สแกนเพื่ออ่านคู่มือ</div>
   </div>
@@ -448,10 +470,13 @@ body{font-family:'Sarabun',sans-serif;background:#000;}
       เอกสารขั้นตอนการทดสอบระบบ (Test Procedure)<br>
       สำหรับการตรวจรับและยืนยันระบบงาน
     </div>
-    <div class="url-box">
-      <div class="udot"></div>
-      <div class="utext">ratesheetextractor-frontend-production<br>.up.railway.app/testprocedure/</div>
-    </div>
+    <a class="url-link" href="https://ratesheetextractor-frontend-production.up.railway.app/testprocedure/" target="_blank" rel="noopener">
+      <div class="url-box">
+        <div class="udot"></div>
+        <div class="utext">ratesheetextractor-frontend-production<br>.up.railway.app/testprocedure/</div>
+      </div>
+    </a>
+    <div class="click-hint">🔗 คลิกเพื่อเปิดเอกสารทดสอบ</div>
   </div>
   <div class="url-r">
     <div class="qr-box">
