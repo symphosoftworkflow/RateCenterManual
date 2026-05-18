@@ -99,5 +99,13 @@
 
 ---
 
+---
+
+## :material-presentation: สไลด์นำเสนอโครงการ
+
+[:material-arrow-right: เปิด Presentation (Full Screen)](presentation/index.html){ .md-button }
+
+---
+
 *จัดทำตามมาตรฐาน ISO/IEC 29110-4-1 — Software Engineering: Lifecycle Profiles for Very Small Entities (VSEs)*  
 *ลิขสิทธิ์ © 2568 LA-OR CO.,LTD. — สงวนลิขสิทธิ์ทุกประการ*
